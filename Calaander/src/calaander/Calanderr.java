@@ -7,7 +7,8 @@ package calaander;
 
 /**
  *
- * @author Michale
+ * this is just a try and error 
+ * @author Miichale
  */
 public class Calanderr extends javax.swing.JFrame {
 
